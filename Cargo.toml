@@ -1,0 +1,11 @@
+[package]
+name = "fips203"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "FIPS 203 (draft): Module-Lattice-Based Key-Encapsulation Mechanism"
+authors = ["Eric Schorn <eschorn@integritychain.com>"]
+repository = "https://github.com/integritychain/fips203"
+rust-version = "1.73"
+
+[dependencies]
